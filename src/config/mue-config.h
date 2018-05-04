@@ -24,7 +24,7 @@
 #define CLIENT_VERSION_REVISION 3
 
 /* Version is release */
-#define COPYRIGHT_YEAR 2017
+#define COPYRIGHT_YEAR 2018
 
 /* Define to 1 to enable wallet functions */
 #define ENABLE_WALLET 1
@@ -302,22 +302,22 @@
 #define LT_OBJDIR ".libs/"
 
 /* Define to the address where bug reports for this package should be sent. */
-#define PACKAGE_BUGREPORT "https://github.com/muecoin/mue/issues"
+#define PACKAGE_BUGREPORT "https://github.com/allcoinmaster/all/issues"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "MonetaryUnit Core"
+#define PACKAGE_NAME "AllcoinMaster Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "MonetaryUnit Core 1.0.3"
+#define PACKAGE_STRING "AllcoinMaster Core 1.0.1"
 
 /* Define to the one symbol short name of this package. */
-#define PACKAGE_TARNAME "muecore"
+#define PACKAGE_TARNAME "CHAI"
 
 /* Define to the home page for this package. */
 #define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "1.0.3"
+#define PACKAGE_VERSION "1.0.1"
 
 /* Define to necessary symbol if this constant uses a non-standard name on
    your system. */

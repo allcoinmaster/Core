@@ -16,22 +16,22 @@ FILETYPE        VFT_APP
 BEGIN
     BLOCK "StringFileInfo"
     BEGIN
-        BLOCK "040904E4" // U.S. English - multilingual (hex)
+        BLOCK "0010" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "MonetaryUnit"
-            VALUE "FileDescription",    "MonetaryUnit Core (GUI node for MonetaryUnit)"
+            VALUE "CompanyName",        "AllcoinMaster"
+            VALUE "FileDescription",    "AllcoinMaster Core (GUI node for AllcoinMaster)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "mue-qt"
+            VALUE "InternalName",       "Chai-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "mue-qt.exe"
-            VALUE "ProductName",        "MonetaryUnit Core"
+            VALUE "OriginalFilename",   "Chai-qt.exe"
+            VALUE "ProductName",        "AllcoinMaster Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
 
     BLOCK "VarFileInfo"
     BEGIN
-        VALUE "Translation", 0x0, 1252 // language neutral - multilingual (decimal)
+        VALUE "Translation", 0x0, 12 // language neutral - multilingual (decimal)
     END
 END
